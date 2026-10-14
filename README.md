@@ -176,18 +176,18 @@ export default defineDeveloper({
 ## `> git log --career --oneline`
 
 ```bash
-* a3f9c21  (HEAD -> senior)  2023 — 2026  Senior Full Stack · fintech / payments
+* a3f9c21  (HEAD -> senior) Senior Full Stack · fintech / payments
 │          ├─ page load 4.5s → <2s, Lighthouse 55 → 85+
 │          ├─ legacy React refactor: −30% bugs, −20% delivery time
 │          ├─ Stripe · OpenAI · Google Maps integrations
 │          └─ 50+ reviews / quarter, mentoring 2 mid-level engineers
 │
-* 7be41d0  (middle)          2021 — 2023  Middle Full Stack · high-traffic B2C products
+* 7be41d0  (middle)         Middle Full Stack · high-traffic B2C products
 │          ├─ Node.js / NestJS REST APIs across 3+ live products
 │          ├─ PostgreSQL indexing & query tuning: −25% response time
 │          └─ Jest coverage 70%+ on critical modules
 │
-* 0c1d2e3  (junior)          2020 — 2021  Junior Full Stack · internal tools & web
+* 0c1d2e3  (junior)         Junior Full Stack · internal tools & web
 │          ├─ React tools used daily by 40+ people
 │          └─ frontend → Node.js backend in 3 months
 │
